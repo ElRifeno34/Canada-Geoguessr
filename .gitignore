@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Output of desktop/coordinate_picker.py
+desktop/picked_coordinates.csv
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
